@@ -2,7 +2,7 @@
 
 ---
 
-## Simple todo planner for every day using
+### Simple todo planner for every day using
 
 ---
 
@@ -11,6 +11,7 @@
 Use the package **npm** to install req.
 
 ```
+npm install react react-dom
 npm install uuid
 npm i --save @fortawesome/fontawesome-svg-core
 # Free icons styles
