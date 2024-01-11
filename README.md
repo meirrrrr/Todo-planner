@@ -1,7 +1,4 @@
 # Todo Planner
-
----
-
 ### Simple todo planner for every day using
 
 ---
